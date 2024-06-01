@@ -1,0 +1,8 @@
+{
+    "always_enabled": false,
+    "base_delay": 0.01,
+    "color_tolerance": 70,
+    "menu_open": "0x2D",
+    "trigger_delay": 40,
+    "trigger_hotkey": "0xA4"
+}

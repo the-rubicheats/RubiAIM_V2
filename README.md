@@ -16,5 +16,6 @@ O tutorial termina com uma demonstração e orientações sobre como realizar a 
 2) Localize a função "Disparar/Atirar":
     - A tecla principal padrão é o botão esquerdo do mouse.
     - A tecla secundária não está atribuída (vincule-a à tecla 'P').
+    - 
 ![preview](P.png) 
 3) Retorne ao software e clique em ‘Ativar’ uma vez, e seu script de assistência avançado será ativado.

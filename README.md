@@ -11,7 +11,7 @@ O script avançado calcula a localização dos alvos, ajusta o campo de visão (
 O tutorial termina com uma demonstração e orientações sobre como realizar a configuração inicial do RubiAIM V2 antes de colocá-lo em funcionamento. O código do script está disponível para venda; por favor, envie-me uma mensagem para obter mais informações.
  
 # Como configurar:
-- Certifique-se de ajustar o contorno do inimigo para roxo e configurar seu jogo para o modo janela ou janela sem bordas.
+- Certifique-se de ajustar o contorno do inimigo para roxo e configurar seu jogo para o modo janela sem bordas.
 1) Acesse as configurações do jogo e procure por opções como "Teclado" ou "Atalhos de teclado".
 2) Localize a função "Disparar/Atirar":
     - A tecla principal padrão é o botão esquerdo do mouse.
